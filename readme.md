@@ -1,5 +1,4 @@
-<h1>Coding projects<h1/>
-
+## Coding projects
 
 # Rona Rush
 
