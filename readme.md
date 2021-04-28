@@ -3,14 +3,14 @@ This is my coding portfolio and includes link to my coding projects.
 
 # Rona Rush
 
-I made this game in 2020 for the Oxbridge Alumni Academic Exploration Competition 2020 ([winners announcement](https://www.oxbridgemalaysia.org/academic-exploration-competition/academic-exploration-competition-2020-results/)) and I am very pleased to report that I won the competition.
+I made this game in 2020 for the Oxbridge Alumni Academic Exploration Competition 2020 ([winners announcement](https://www.oxbridgemalaysia.org/academic-exploration-competition/academic-exploration-competition-2020-results/))
 
 The Android version of the game is available for free at the [Playstore](https://play.google.com/store/apps/details?id=com.MaximusAbela.RonaRush)
 
 [Code Here>>](https://github.com/MaxA0/RonaRush)
 
 # Dijkstra Pathfinding
-To enable new parents and children find their way around the school I have created a mapping system. With complex floor layouts and staircases that do not access all floors this was a perfect test for pathfinder algorithms. See how I made this kind of bot on youtube.
+To enable new parents and children find their way around the school I have created a mapping system. With complex floor layouts and staircases that do not access all floors this was a perfect test for pathfinder algorithms.
 
 [Code Here>>](https://github.com/MaxA0/Dijkstra-school-pathfinding)
 
