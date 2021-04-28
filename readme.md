@@ -1,4 +1,4 @@
-This is my coding portfolio and includes link to my coding projects.
+<h1>Coding projects<h1/>
 
 
 # Rona Rush
