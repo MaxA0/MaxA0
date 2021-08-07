@@ -9,6 +9,8 @@ I made this game in 2020 for the Oxbridge Alumni Academic Exploration Competitio
 ## Dijkstra Pathfinding
 To enable new parents and children find their way around the school I have created a mapping system. With complex floor layouts and staircases that do not access all floors this was a perfect test for pathfinder algorithms.
 
+<img width="150" alt="Screenshot 2021-03-31 at 3 33 29 PM" src="https://user-images.githubusercontent.com/20654098/128593045-13508eba-43bd-4cf9-a6a2-4c503ad31c94.PNG">
+
 [Code Here>>](https://github.com/ma-xiii/Dijkstra-school-pathfinding)
 
 ## Buffon's needle problem
