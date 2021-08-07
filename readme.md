@@ -3,9 +3,8 @@
 ## Rona Rush
 I made this game in 2020 for the Oxbridge Alumni Academic Exploration Competition 2020 to come up with a solution for gamifying social distancing ([winners announcement](https://www.oxbridgemalaysia.org/wp-content/uploads/2020/08/Academic-Exploration-Competition-Results-Announcement.docx-1.pdf))
 
-# Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-<img width="300" alt="Screenshot 2021-03-31 at 3 33 29 PM" src="https://user-images.githubusercontent.com/20654098/128592722-97ad152f-31ed-4ea4-a983-073df698bd1c.PNG">
+<img width="300" alt="Screenshot 2021-03-31 at 3 33 29 PM" align="right" src="https://user-images.githubusercontent.com/20654098/128592722-97ad152f-31ed-4ea4-a983-073df698bd1c.PNG">
 
 [Code Here>>](https://github.com/ma-xiii/RonaRush)
 
