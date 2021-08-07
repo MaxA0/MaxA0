@@ -38,9 +38,4 @@ These are the videos I created since 2015 to help and inspire people to code. Th
 
 ## GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ma-xiii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ma-xiii&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![Max's github stats](https://github-readme-stats.vercel.app/api?username=ma-xiii&show_icons=true&hide=[%22issues%22])
