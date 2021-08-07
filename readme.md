@@ -18,8 +18,10 @@ This is a script I made after my statistics teacher introduced us to the buffon'
 
 ## The code I made when learning python
 This is the code I made during IGCSE and A levels when I was learning python, it also contains school projects from Computer Science class and some references.
+
 [Code Here>>](https://github.com/ma-xiii/Learning-python)
 
 ## My Coding tutorials!
+These are the videos I created since 2015 to help and inspire people to code.
 
 [youtube playlist](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
