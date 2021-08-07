@@ -1,4 +1,4 @@
-# Coding projects
+# Projects
 
 ## Rona Rush
 
