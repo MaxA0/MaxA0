@@ -16,6 +16,6 @@ This is a script I made after my statistics teacher introduced us to the buffon'
 
 [Code Here>>](https://github.com/ma-xiii/buffon-s-needles)
 
-## Discord Moderation Tool
+## My Coding tutorials!
 
-![[youtube playlist](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
+[youtube playlist](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
