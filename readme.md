@@ -17,7 +17,4 @@ This is a script I made after my statistics teacher introduced us to the buffon'
 [Code Here>>](https://github.com/ma-xiii/buffon-s-needles)
 
 ## Discord Moderation Tool
-This is a script I made to manage Discord Servers, it automates much of the work required to maintain a discord server.
-[![yt video](https://img.youtube.com/vi/qaJ58rrv_PM/0.jpg)](https://www.youtube.com/watch?v=qaJ58rrv_PM)
 
-[Code Here>>](https://github.com/ma-xiii/MaxDiscordzBot)
