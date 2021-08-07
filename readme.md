@@ -39,4 +39,3 @@ These are the videos I created since 2015 to help and inspire people to code. Th
 ## GitHub Analytics
 
 ![Max's github stats](https://github-readme-stats.vercel.app/api?username=ma-xiii&show_icons=true&hide=[%22issues%22])
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ma-xiii&layout=compact" align="right">
