@@ -35,3 +35,12 @@ This is the code I made during IGCSE and A levels when I was learning python, it
 These are the videos I created since 2015 to help and inspire people to code. These videos are mostly comedic and exciting to try and coerce people to embark on their own coding journey!
 
 [YouTube Playlist>>](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ma-xiii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ma-xiii&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
