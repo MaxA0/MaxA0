@@ -2,14 +2,16 @@
 
 ## Rona Rush
 
-I made this game in 2020 for the Oxbridge Alumni Academic Exploration Competition 2020 ([winners announcement](https://www.oxbridgemalaysia.org/wp-content/uploads/2020/08/Academic-Exploration-Competition-Results-Announcement.docx-1.pdf))
+I made this game in 2020 for the Oxbridge Alumni Academic Exploration Competition 2020 to come up with a solution for gamifying social distancing ([winners announcement](https://www.oxbridgemalaysia.org/wp-content/uploads/2020/08/Academic-Exploration-Competition-Results-Announcement.docx-1.pdf))
 
 <img width="300" alt="Screenshot 2021-03-31 at 3 33 29 PM" src="https://user-images.githubusercontent.com/20654098/128592722-97ad152f-31ed-4ea4-a983-073df698bd1c.PNG">
 
 [Code Here>>](https://github.com/ma-xiii/RonaRush)
 
 ## Dijkstra Pathfinding
-To enable new parents and children find their way around the school I have created a mapping system. With complex floor layouts and staircases that do not access all floors this was a perfect test for pathfinder algorithms.
+Parents and new students often get lost, to solve this problem I've created a pathfinding solution to allow someone to find their way from point A to B. 
+
+[More information - my design portfolio](https://docs.google.com/presentation/d/1_pKWqn96okEkHfcy8EPZVZmLWTz7i6EIZMyKazftWC4/edit#slide=id.p)
 
 <img width="300" alt="Screenshot 2021-03-31 at 3 33 29 PM" src="https://user-images.githubusercontent.com/20654098/128593045-13508eba-43bd-4cf9-a6a2-4c503ad31c94.PNG">
 
