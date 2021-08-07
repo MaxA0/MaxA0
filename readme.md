@@ -2,7 +2,7 @@
 
 ## Rona Rush
 
-I made this game in 2020 for the Oxbridge Alumni Academic Exploration Competition 2020 ([winners announcement](https://www.oxbridgemalaysia.org/wp-content/uploads/2020/08/Academic-Exploration-Competition-Results-Announcement.docx-1.pdf)
+I made this game in 2020 for the Oxbridge Alumni Academic Exploration Competition 2020 ([winners announcement](https://www.oxbridgemalaysia.org/wp-content/uploads/2020/08/Academic-Exploration-Competition-Results-Announcement.docx-1.pdf))
 
 <img width="300" alt="Screenshot 2021-03-31 at 3 33 29 PM" src="https://user-images.githubusercontent.com/20654098/128592722-97ad152f-31ed-4ea4-a983-073df698bd1c.PNG">
 
