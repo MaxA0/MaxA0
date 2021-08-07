@@ -34,4 +34,4 @@ This is the code I made during IGCSE and A levels when I was learning python, it
 ## My Coding tutorials!
 These are the videos I created since 2015 to help and inspire people to code.
 
-[youtube playlist](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
+[YouTube Playlist>>](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
