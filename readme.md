@@ -36,7 +36,7 @@ These are the videos I created since 2015 to help and inspire people to code. Th
 
 [YouTube Playlist>>](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
 
-### ⚙️ &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
