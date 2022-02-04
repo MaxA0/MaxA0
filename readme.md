@@ -18,6 +18,12 @@ Parents and new students often get lost, to solve this problem I've created a pa
 
 [Code Here>>](https://github.com/ma-xiii/Dijkstra-school-pathfinding)
 
+## Moderation tool
+
+A bot using the discord api used to moderate a community 
+
+[Code Here>>](https://github.com/ma-xiii/ModerationBot)
+
 ## Buffon's needle problem
 
 <img width="300" alt="Screenshot 2021-03-31 at 3 33 29 PM" align="right" src="https://user-images.githubusercontent.com/20654098/113111185-7db98200-923a-11eb-8e02-7385c651eab4.png">
