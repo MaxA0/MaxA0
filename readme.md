@@ -20,7 +20,7 @@ Parents and new students often get lost, to solve this problem I've created a pa
 
 ## Moderation tool
 
-A bot using the discord api used to moderate a community 
+A bot using the discord api used to moderate and aid the community 
 
 [Code Here>>](https://github.com/ma-xiii/ModerationBot)
 
