@@ -52,7 +52,3 @@ This is a shop management software I wrote for fun.
 These are the videos I created since 2015 to help and inspire people to code. These videos are mostly comedic and exciting to try and encourage people to embark on their own coding journey!
 
 [YouTube Playlist>>](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
-
-## GitHub Analytics
-
-![Max's github stats](https://github-readme-stats.vercel.app/api?username=m-abela&show_icons=true&hide=[%22issues%22])
