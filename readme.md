@@ -1,5 +1,13 @@
 # Coding Projects
 
+## Java enterprise application
+
+<img width="300" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/270016640-e4e26c83-cadd-4a93-b1be-b954eaa4ee91.png">
+
+This is a shop management software I wrote for fun.
+
+[Code Here>>](https://github.com/m-abela/Java-shop-management/)
+
 ## Django website
 
 <img width="300" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/270010108-326971b2-0ff0-43eb-b4d0-64c2070daa28.png">
