@@ -1,15 +1,5 @@
 # Coding Projects
 
-## Java enterprise application
-
-<img width="300" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/270016640-e4e26c83-cadd-4a93-b1be-b954eaa4ee91.png">
-
-This is a shop management software I wrote for fun.
-
-
-
-
-
 [Code Here>>](https://github.com/m-abela/Java-shop-management/)
 
 ## Django website
@@ -52,10 +42,11 @@ This is a script I made after my statistics teacher introduced us to the buffon'
 
 [Code Here>>](https://github.com/m-abela/buffon-s-needles)
 
-## The code I made when learning python
-This is the code I made during IGCSE and A levels when I was learning python, it also contains school projects from Computer Science class and some references.
+## Java enterprise application
 
-[Code Here>>](https://github.com/m-abela/Learning-python)
+<img width="300" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/270016640-e4e26c83-cadd-4a93-b1be-b954eaa4ee91.png">
+
+This is a shop management software I wrote for fun.
 
 ## My Coding tutorials!
 These are the videos I created since 2015 to help and inspire people to code. These videos are mostly comedic and exciting to try and encourage people to embark on their own coding journey!
