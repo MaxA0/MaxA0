@@ -1,6 +1,9 @@
 # Coding Projects
 
-[Code Here>>](https://github.com/m-abela/Java-shop-management/)
+## My Coding tutorials!
+These are the videos I created since 2015 to help and inspire people to code. These videos are mostly comedic and exciting to try and encourage people to embark on their own coding journey!
+
+[YouTube Playlist>>](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
 
 ## Django website
 
@@ -28,6 +31,14 @@ Parents and new students often get lost, to solve this problem I've created a pa
 
 [Code Here>>](https://github.com/m-abela/Dijkstra-school-pathfinding)
 
+## Java enterprise application
+
+<img width="300" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/270016640-e4e26c83-cadd-4a93-b1be-b954eaa4ee91.png">
+
+This is a shop management software I wrote for fun.
+
+[Code Here>>](https://github.com/m-abela/Java-shop-management/)
+
 ## Moderation tool
 
 A bot using the discord api used to moderate and aid the community 
@@ -41,14 +52,3 @@ A bot using the discord api used to moderate and aid the community
 This is a script I made after my statistics teacher introduced us to the buffon's needle problem The needle problem is able to estimate the value of pi, the more needles you drop / count, the closer you can get to the value of pi.
 
 [Code Here>>](https://github.com/m-abela/buffon-s-needles)
-
-## Java enterprise application
-
-<img width="300" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/270016640-e4e26c83-cadd-4a93-b1be-b954eaa4ee91.png">
-
-This is a shop management software I wrote for fun.
-
-## My Coding tutorials!
-These are the videos I created since 2015 to help and inspire people to code. These videos are mostly comedic and exciting to try and encourage people to embark on their own coding journey!
-
-[YouTube Playlist>>](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
