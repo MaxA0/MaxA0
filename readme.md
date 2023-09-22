@@ -6,10 +6,11 @@
 
 This is a shop management software I wrote for fun.
 
+
+
+
+
 [Code Here>>](https://github.com/m-abela/Java-shop-management/)
-
-
-
 
 ## Django website
 
