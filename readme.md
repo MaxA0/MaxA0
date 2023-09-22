@@ -35,7 +35,7 @@ Parents and new students often get lost, to solve this problem I've created a pa
 
 <img width="300" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/270016640-e4e26c83-cadd-4a93-b1be-b954eaa4ee91.png">
 
-This is a shop management software I wrote for fun.
+This is a shop management software I wrote using the mongoDB API, surprisingly fast because it logs into the database and stays logged in for DB calls.
 
 [Code Here>>](https://github.com/m-abela/Java-shop-management/)
 
