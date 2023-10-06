@@ -11,7 +11,7 @@ These are the videos I created since 2015 to help and inspire people to code. Th
 
 ## Django website
 
-<img width="300" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/270010108-326971b2-0ff0-43eb-b4d0-64c2070daa28.png">
+<img width="250" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/270010108-326971b2-0ff0-43eb-b4d0-64c2070daa28.png">
 
 This is a website built with Python, JavaScript, HTML and CSS. It has a login and registration page, you can create coding challenges in the admin panel, and students can answer these challenges and compete on the leaderboard page.
 
