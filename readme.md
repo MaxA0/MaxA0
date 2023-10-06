@@ -8,6 +8,9 @@ These are the videos I created since 2015 to help and inspire people to code. Th
 [YouTube Playlist>>](https://www.youtube.com/playlist?list=PL4mY2OcMYfdSGHWNRvVk16QaDkuT3Kuuq)
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 ## Django website
 
