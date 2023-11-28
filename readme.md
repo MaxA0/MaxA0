@@ -1,17 +1,5 @@
 # Coding Projects
 
-## My Coding tutorials!
-
-<img width="300" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/273167438-56f7c0ae-dea4-4056-a610-7055ffcdab65.png">
-These are the videos I created since 2015 to help and inspire people to code. These videos are mostly comedic and exciting to try and encourage people to embark on their own coding journey!
-
-[YouTube Channel>>](https://www.youtube.com/@max_codez/)
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## Django website
 
 <img width="300" alt="Website img" align="right" src="https://user-images.githubusercontent.com/20654098/270010108-326971b2-0ff0-43eb-b4d0-64c2070daa28.png">
