@@ -1,4 +1,4 @@
-# Coding Projects
+# Personal Projects
 
 ## Django website
 
